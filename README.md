@@ -1,5 +1,12 @@
 # Landauer-Phase-Lift Conductance Law
 
+
+<!-- HERO_ANIMATION:BEGIN -->
+![Landauer phase-lift conductance law](images/landauer_phase_lift.gif)
+
+_Hero animation: **Landauer phase-lift conductance law**. [Download high-resolution MP4](images/landauer_phase_lift.mp4)._
+<!-- HERO_ANIMATION:END -->
+
 **ID:** `eq-landauer-phase-lift-conductance-law`  
 **Tier:** derived  
 **Score:** 81  
